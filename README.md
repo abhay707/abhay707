@@ -1,4 +1,4 @@
-# Hello! 👋 # [Portfolio](https://abhaydevportfolio.netlify.app)
+# Hello! 👋 [Portfolio](https://abhaydevportfolio.netlify.app)
 
 ![abhay707's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay707&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
