@@ -97,7 +97,6 @@ Building scalable web apps, developer tooling, and AI-powered systems with React
 
 <div align="center">
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay707&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Abhay's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhay707&theme=tokyonight&hide_border=true)
 
 </div>
