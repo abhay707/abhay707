@@ -11,7 +11,7 @@
 
 Building scalable web apps, developer tooling, and AI-powered systems with React, Node.js & cloud.
 
-📍 Punjab, India &nbsp;|&nbsp; 🎓 CGPA: 7.8 &nbsp;|&nbsp; 📬 abhay.chaturvedii007@gmail.com
+📍 Punjab, India &nbsp;|&nbsp; 📬 abhay.chaturvedii007@gmail.com
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-chaturvedi-works.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhay-chaturvedi7)
@@ -89,8 +89,6 @@ Building scalable web apps, developer tooling, and AI-powered systems with React
 
 **Lovely Professional University** — Punjab, India
 `B.Tech · Computer Science & Engineering · 2022 – Present`
-**CGPA: 7.8**
-
 ---
 
 ## 📈 GitHub Activity
